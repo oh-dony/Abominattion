@@ -6,13 +6,13 @@
 
 - No momento estou trabalhando: [Professor Vinícius](https://professorviniciusteixeira.com.br/)
 
-- 🌱 Atualmente estou aprendendo **Laravel e React**
-
 - No momento estou trabalhando: [Imobiliária Migliorini](https://www.imobiliariamigliorini.com.br/)
 
 - No momento estou trabalhando: [Thiago Zu](https://abominattion.github.io/thiago-zu/)
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://abominattion.github.io/ads-informatica/](https://abominattion.github.io/ads-informatica/)
+- 🌱 Atualmente estou aprendendo **Laravel e React**
+
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://abominattion.github.io/adonay-douglas/]https://abominattion.github.io/adonay-douglas/)
 
 - 📫 Como chegar até mim **adonaypowermetal@gmail.com**
 
