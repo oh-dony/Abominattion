@@ -4,27 +4,26 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
-- No momento estou trabalhando: [Professor Vinícius](https://professorviniciusteixeira.com.br/)
+# Perfil de Desenvolvedor Fullstack
 
-- No momento estou trabalhando: [Imobiliária Migliorini](https://www.imobiliariamigliorini.com.br/)
+## Desenvolvedor Fullstack | Especializado em Integrações e Performance
 
-- No momento estou trabalhando: [Thiago Zu](https://abominattion.github.io/thiago-zu/)
+Com vasta experiência em tecnologias como AWS, Node.js, TypeScript, Python, AdonisJS, MySQL e integrações de API via ERP, em ambientes Linux, meu foco é a criação de soluções inovadoras e eficientes.
 
-- 🌱 Atualmente estou aprendendo **Laravel e React**
+Minha jornada inclui o desenvolvimento e manutenção de CRMs, integrações com serviços RdStation e Sales Force, e liderança no desenvolvimento de um robusto Learning Management System (LMS) com ênfase em desempenho.
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://abominattion.github.io/adonay-douglas/]https://abominattion.github.io/adonay-douglas/)
+Utilizo ferramentas como Laravel Telescope, Laravel Pint e PEST 2.0 para garantir qualidade e confiabilidade, e estou constantemente em busca de desafios para entregar resultados excepcionais.
 
-- 📫 Como chegar até mim **adonaypowermetal@gmail.com**
+## Ferramentas Favoritas
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/adonay douglas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adonay douglas" height="30" width="40" /></a>
-<a href="https://twitter.com/adonay douglas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adonay douglas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adonay douglas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adonay douglas" height="30" width="40" /></a>
-<a href="https://fb.com/adonay douglas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adonay douglas" height="30" width="40" /></a>
-<a href="https://instagram.com/adonay douglas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adonay douglas" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/adonay douglas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adonay douglas" height="30" width="40" /></a>
-</p>
+- **Laravel Telescope**: Uma ferramenta poderosa para depuração e monitoramento de aplicativos Laravel.
+- **Laravel Pint**: Uma extensão que aprimora o agendamento de tarefas no Laravel.
+- **PEST 2.0**: Um framework de teste moderno para PHP que ajuda a manter o código confiável.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+## Compromisso
+
+Estou constantemente em busca de desafios que me permitam entregar resultados excepcionais. Se você está trabalhando em projetos interessantes ou precisando de ajuda com desenvolvimento Fullstack, integrações ou melhorias de desempenho, adoraria colaborar e contribuir para o sucesso do seu projeto.
+
+Fique à vontade para explorar meus repositórios e entrar em contato comigo se tiver alguma pergunta ou oportunidade de colaboração. Vamos construir coisas incríveis juntos!
+
+Obrigado por visitar meu perfil no GitHub. Vamos continuar codificando!
