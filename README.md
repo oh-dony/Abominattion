@@ -1,10 +1,6 @@
 
 <h1 align="center">Olá 👋, eu sou Adonay Douglas.</h1>
-<h3 align="center">Trabalho como frontend e beckend web.</h3>
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
-
-# Perfil de Desenvolvedor Fullstack
 
 ## Desenvolvedor Fullstack | Especializado em Integrações e Performance
 
